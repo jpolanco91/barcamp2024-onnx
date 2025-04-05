@@ -21,6 +21,10 @@ Clonamos el repositorio con el código desde GitHub con el siguiente comando:
 
 `git clone https://github.com/jpolanco91/barcamp2024-onnx.git`
 
+Luego nos cambiamos al repositorio del codigo fuente con el siguiente comando:
+
+`cd barcamp2024-onnx/src`
+
 En la terminal ejecutamos el siguiente comando de anaconda para configurar el environment del proyecto:
 
  `conda env create -f environment.yml`
